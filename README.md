@@ -16,7 +16,7 @@ This project analyzes sentiment in Amazon Fine Food Reviews using various techni
 ```
 
 # **Dataset:**
----bash
+---
 The dataset used for this analysis is the Amazon Fine Food Reviews dataset, which contains reviews of fine foods from Amazon. You can download it from Kaggle.
 ---
 

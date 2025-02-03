@@ -21,7 +21,7 @@ The dataset used for this analysis is the Amazon Fine Food Reviews dataset, whic
 ---
 
 # **Technologies Used:**
----
+```
 Python: The programming language used for the analysis.
 Pandas: For data manipulation and analysis.
 NumPy: For numerical operations.
@@ -30,7 +30,7 @@ Seaborn: For statistical data visualization.
 NLTK: For natural language processing tasks.
 Transformers: For using pre-trained models like RoBERTa.
 TQDM: For progress bars in loops.
----
+```
 
 # **Installation:**
 ```bash
